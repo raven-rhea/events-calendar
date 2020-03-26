@@ -1,0 +1,35 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+.min-length {
+  min-height: 50em;
+}
+
+.grey {
+  color: #333;
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+}
+
+.red {
+  color: #991919;
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  border-radius: 8px;
+}
+
+.green {
+  color: #51603f;
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  border-radius: 8px;
+}
+
+.blue {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  border-radius: 8px;
+}
